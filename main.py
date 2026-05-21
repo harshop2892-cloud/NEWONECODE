@@ -14,7 +14,7 @@ PRODUCT_SLUG = "pubg-mobile-60-uc-unknown-cash-direct-top-up-global"
 PRODUCT_ID = "019bd77df6647139b46f487ba5a59509"
 PUBG_ID = "51458699098"
 
-TELEGRAM_BOT_TOKEN = "8783810252:AAGz0ajTiib4Pg1k27RPT5GaRLs974HBIKM"
+TELEGRAM_BOT_TOKEN = "7979634711:AAEOS8TrWhI0ivvg2SZgjqT6exwl9EWGCW0"
 TELEGRAM_CHAT_ID = "-5124898287"
 
 # ========================= PROXIES =========================
