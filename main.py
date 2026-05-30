@@ -59,7 +59,7 @@ def premium_emoji(text):
 # Bot Configuration
 API_ID = 37235723
 API_HASH = '880a876edaf529c8493b873d47821ec2'
-BOT_TOKEN = '7979634711:AAEOS8TrWhI0ivvg2SZgjqT6exwl9EWGCW0'
+BOT_TOKEN = '8331950390:AAHX5V8JZ6jeJTZZHE7wAFswbdla-oIAogQ'
 
 
 # File paths
