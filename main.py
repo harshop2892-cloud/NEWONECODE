@@ -9,7 +9,7 @@ import json
 import re
 from datetime import datetime
 # Direct API endpoint (replaces checker_bridge)
-CHECKER_API_URL = 'http://148.230.102.178:8081/'
+CHECKER_API_URL = 'https://afuona.up.railway.app/shopify'
 
 # Premium Custom Emoji IDs (bot must be created with Telegram Premium account)
 # Use @RawDataBot to get custom_emoji_id for any premium emoji
