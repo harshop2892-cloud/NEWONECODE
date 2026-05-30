@@ -100,7 +100,7 @@ _DEAD_INDICATORS = (
 def get_main_menu_keyboard():
     return [
         [Button.inline("𝗖𝗺𝗱", b"show_commands", style="success")],
-        [Button.url("𝗖𝗵𝗮𝗻𝗻𝗲𝗹", "https://t.me/+kxhCcDXQgzQ5MjE0", style="success")]
+        [Button.url("𝗖𝗵𝗮𝗻𝗻𝗲𝗹", "https://t.me/ccscrapharshOp", style="success")]
     ]
 
 def get_commands_keyboard():
@@ -173,7 +173,7 @@ async def get_user_stats_text(user_id, username):
     text += f"    ┣ 🔌 𝗣𝗿𝗼𝘅𝗶𝗲𝘀  {proxies_count}\n"  
     text += f"    ┣ 💥 𝗛𝗶𝘁𝘀{successful_checks}\n"
     text += f"    ┗ 📈 𝗧𝗼𝘁𝗮𝗹 {total_checks}\n\n\n"
-    text += f"💡 𝗠𝗮𝗱𝗲 𝗯𝘆: @afuonax"
+    text += f"💡 𝗠𝗮𝗱𝗲 𝗯𝘆: @CARDINGxHARSH"
     
     return text
 
