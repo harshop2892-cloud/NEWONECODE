@@ -62,7 +62,7 @@ def premium_emoji(text: str) -> str:
 def get_main_menu_keyboard(user_id=None):
     buttons = [
         [Button.inline(" Cmd", b"show_cmds", style="success"),
-         Button.url(" Channel", "https://t.me/+kxhCcDXQgzQ5MjE0", style="success")]
+         Button.url(" Channel", "", style="success")]
     ]
     
     if user_id and user_id in ADMIN_ID:
@@ -355,7 +355,7 @@ async def send_final_results(user_id, results):
 Hits:
 {hits_text}
 
-💡 Made by @AFUONA_V"""
+💡 Made by @CARDINGxHARSH"""
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = f"afuonax{timestamp}.txt"
