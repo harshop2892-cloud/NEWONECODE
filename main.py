@@ -62,7 +62,7 @@ def premium_emoji(text: str) -> str:
 def get_main_menu_keyboard(user_id=None):
     buttons = [
         [Button.inline(" Cmd", b"show_cmds", style="success"),
-         Button.url(" Channel", "", style="success")]
+         Button.url(" Channel", "https://t.me/ccscrapharshOp", style="success")]
     ]
     
     if user_id and user_id in ADMIN_ID:
