@@ -1,1 +1,1 @@
-107.175.38.146:12345:tickets:proxyon145
+se-sto.pvdata.host:8080:g2rTXpNfPdc
