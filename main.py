@@ -466,7 +466,7 @@ async def start(event):
    🦉 Add sites: <code>/site</code>
    🦉 Check CC: <code>/cc card|mm|yy|cvv</code>
 
-💡 Made by @AFUONA_V"""
+💡 Made by @CARDINGxHARSH"""
     
     buttons = get_main_menu_keyboard(user_id)
     
