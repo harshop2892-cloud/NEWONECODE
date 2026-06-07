@@ -11,7 +11,7 @@ from datetime import datetime
 
 API_ID = 37235723
 API_HASH = '880a876edaf529c8493b873d47821ec2'
-BOT_TOKEN = '8331950390:AAHX5V8JZ6jeJTZZHE7wAFswbdla-oIAogQ'
+BOT_TOKEN = '8794282630:AAEG9s36HYsNan73p8pbObfmOtDqWSLIo9Y'
 ADMIN_ID = [7077294261]
 CHECKER_API_URL = 'https://afuonax1.up.railway.app/shopify_parallel'
 
